@@ -1,4 +1,4 @@
-# CyberTools
+# Cybersecurity Tools
 
 Welcome to the CyberTools repository! This project is designed to provide a collection of tools and scripts related to cybersecurity and cryptography.
 

@@ -8,7 +8,7 @@ The primary purpose of this repository is to host various tools that can be used
 
 ## Tools Included
 
-### SHA-256 Hash Generator and Verifier
+### [SHA-256 Hash Generator and Verifier](https://github.com/stanfordaniya/CyberTools/tree/main/HASH256)
 
 ### [BIRD](https://github.com/stanfordaniya/Bird)
 
